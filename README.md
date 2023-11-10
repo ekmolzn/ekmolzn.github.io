@@ -54,12 +54,12 @@ IBM Data Science Professional Certificates - 08/2023<br>
 - Oversaw teams in social welfare initiatives<br>
 - Collaborated with cross-cultural teams to achieve mutual objectives<br> 
 - Conducted translations from Thai to English<br>
+
 #### Team Member | Antioch Community Church | Chiang Mai, Thailand | 2016-2020
 - Leveraged advanced Excel skills to manage and track team budgets, thereby facilitating informed decision-making with leadership
 - Acquired proficiency in speaking, reading, and writing Thai<br>
 - Oversaw teams in social welfare initiatives<br>
 - Collaborated with cross-cultural teams to achieve mutual objectives - Conducted translations from Thai to English<br>
- <br>
 
 #### Engineering Technician | Chesapeake Energy Corp. | Oklahoma City, OK | 2013-2015
 - Conducted comprehensive analysis and refinement of large operational datasets from multiple unstructured sources<br>
@@ -68,13 +68,11 @@ IBM Data Science Professional Certificates - 08/2023<br>
 - Managed multiple ongoing projects and responsibilities simultaneously<br>
 - Updated routine KPIs and dashboards<br>
 - Utilized TIBCO Spotfire to visualize insights and highlight emerging trends<br>
-<br>
 
 #### Air & Regulatory Scientist | EnviroClean | Oklahoma City, OK | 2012-2013
 - Provided consultation services to clients to ensure accurate operational data capture
 - Conducted engineering calculations for emissions reporting<br>
 - Filed regulatory reports on behalf of five energy companies<br>
-<br>
 
 #### Lab Technician | OK Dept. Environmental Quality | Oklahoma City, OK | 2009-2011
 - Balanced a part-time role while pursuing full-time college education<br>

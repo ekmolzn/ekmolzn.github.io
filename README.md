@@ -11,9 +11,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- Programming for Data Science <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Data Warehousing<br>
 
-#### B.S. Environmental Science - University of Oklahoma<br>
+#### B.S. Environmental Science - University of Oklahoma
 &nbsp;&nbsp;&nbsp;&nbsp;01/2007 - 05/2011<br>
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.61, magna cum laude<br>
+<br>
 
 ### Certificates
 Graduate Certificate - Business Analytics & Data Science - Oklahoma State University<br>
@@ -36,7 +37,7 @@ IBM Data Science Professional Certificates - 08/2023
 - [Money Laundering Anaylysis with Descriptive Analytics](https://youtu.be/Tj0h7V5KSWk?si=S7JdzrT7RXcYY3mI)
 
 ### Visualizations
-- [Looker Studio Ethereum Dashboard](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)
+- [Link to Ethereum Forecast PDF](Assets/Ethereum_forecast.pdf)
 - [![Ethereum Forecast](Assets/Ethereum_forecast.png)](Assets/Ethereum_forecast.png)
 
 ### Work Experience

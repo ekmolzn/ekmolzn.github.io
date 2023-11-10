@@ -38,7 +38,7 @@ IBM Data Science Professional Certificates - 08/2023
 
 ### Visualizations
 - [Looker Studio Ethereum Dashboard](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)
-- ![Ethereum Forecast](Assets/Ethereum_forecast.png)
+- [![Ethereum Forecast](Assets/Ethereum_forecast.png)](Assets/Ethereum_forecast.png)
 
 ### Work Experience
 TEAM LEADER | ANTIOCH COMMUNITY CHURCH

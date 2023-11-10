@@ -1,9 +1,10 @@
 # Data Scientist
 
 ### Education
-M.S. Business Analytics & Data Science - Oklahoma State University 
-    01/2022 - 12/2015 (anticipated)
-    GPA: 4.0
+M.S. Business Analytics & Data Science - Oklahoma State University  
+&nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 12/2015 (anticipated)  
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0
+
 
 #### Relevant Courses
 - Advanced Business Analytics

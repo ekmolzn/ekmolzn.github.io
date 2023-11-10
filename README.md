@@ -1,2 +1,8 @@
-# ekmolzn.github.io
-Personal Portfolio
+# Data Scientist
+
+### Education
+M.S. Data Science
+
+### Work Experience
+
+### Projects

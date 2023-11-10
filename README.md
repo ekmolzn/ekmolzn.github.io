@@ -37,8 +37,8 @@ IBM Data Science Professional Certificates - 08/2023
 - [Money Laundering Anaylysis with Descriptive Analytics](https://youtu.be/Tj0h7V5KSWk?si=S7JdzrT7RXcYY3mI)
 
 ### Visualizations
-- [Link to Ethereum Forecast PDF](Assets/Ethereum_forecast.pdf)
-- [![Ethereum Forecast](Assets/Ethereum_forecast.png)](Assets/Ethereum_forecast.png)
+- [Looker Studio Ethereum Dashboard](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)
+- [Ethereum Forecast](Assets/Ethereum_forecast.png)
 
 ### Work Experience
 TEAM LEADER | ANTIOCH COMMUNITY CHURCH<br>

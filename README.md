@@ -1,17 +1,15 @@
 # Data Scientist
 
 ### Education
-M.S. Business Analytics & Data Science - Oklahoma State University<br>  
-&nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 12/2015 (anticipated)<br>  
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0<br>
-
-
-#### Relevant Courses
-- Advanced Business Analytics
-- Prescriptive Business Analytics 
-- Descriptive Business Analytics 
-- Programming for Data Science 
-- Data Warehousing
+M.S. Business Analytics & Data Science - Oklahoma State University  
+&nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 12/2015 (anticipated)
+&nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0
+#### &nbsp;&nbsp;&nbsp;&nbsp;Relevant Courses
+&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Business Analytics
+&nbsp;&nbsp;&nbsp;&nbsp;- Prescriptive Business Analytics 
+&nbsp;&nbsp;&nbsp;&nbsp;- Descriptive Business Analytics 
+&nbsp;&nbsp;&nbsp;&nbsp;- Programming for Data Science 
+&nbsp;&nbsp;&nbsp;&nbsp;- Data Warehousing
 
 B.S. Environmental Science - University of Oklahoma<br>
 &nbsp;&nbsp;&nbsp;&nbsp;01/2007 - 05/2011<br>

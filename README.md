@@ -44,50 +44,54 @@ IBM Data Science Professional Certificates - 08/2023
 TEAM LEADER | ANTIOCH COMMUNITY CHURCH<br>
 &nbsp;&nbsp;&nbsp;&nbsp;UDON, THAILAND<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;2020-PRESENT<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Successfully managed multiple time-sensitive priorities concurrently with minimal or no supervision<br> - Demonstrated being a self-starter and the ability to handle ambiguity in a new environment<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Initiated innovative projects to address historical challenges<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Mentored Thais in development of work skills<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Networked with other leaders and organizations<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Interfaced with the corporate office, other teams, and prospective teammates<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Acquired proficiency in speaking, reading, and writing Thai<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Acclimated to new culture and way of life<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Oversaw teams in social welfare initiatives<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Collaborated with cross-cultural teams to achieve mutual objectives<br> - Conducted translations from Thai to English<br>
+- Successfully managed multiple time-sensitive priorities concurrently with minimal or no supervision<br> - Demonstrated being a self-starter and the ability to handle ambiguity in a new environment<br>
+- Initiated innovative projects to address historical challenges<br>
+- Mentored Thais in development of work skills<br>
+- Networked with other leaders and organizations<br>
+- Interfaced with the corporate office, other teams, and prospective teammates<br>
+- Acquired proficiency in speaking, reading, and writing Thai<br>
+- Acclimated to new culture and way of life<br>
+- Oversaw teams in social welfare initiatives<br>
+- Collaborated with cross-cultural teams to achieve mutual objectives<br> - Conducted translations from Thai to English<br>
 TEAM MEMBER | ANTIOCH COMMUNITY CHURCH<br>
 &nbsp;&nbsp;&nbsp;&nbsp;    CHIANG MAI, THAILAND<br>
     &nbsp;&nbsp;&nbsp;&nbsp;2016-2020<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Leveraged advanced Excel skills to manage and track team budgets, thereby facilitating informed decision-making with leadership<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Acquired proficiency in speaking, reading, and writing Thai<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Oversaw teams in social welfare initiatives<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Collaborated with cross-cultural teams to achieve mutual objectives - Conducted translations from Thai to English<br>
+- Leveraged advanced Excel skills to manage and track team budgets, thereby facilitating informed decision-making with leadership
+- Acquired proficiency in speaking, reading, and writing Thai<br>
+- Oversaw teams in social welfare initiatives<br>
+- Collaborated with cross-cultural teams to achieve mutual objectives - Conducted translations from Thai to English<br>
  <br>
 ENGINEERING TECHNICIAN | CHESAPEAKE ENERGY CORPORATION<br>
     &nbsp;&nbsp;&nbsp;&nbsp;Oklahoma City, OK <br>
     &nbsp;&nbsp;&nbsp;&nbsp;2013-2015<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Conducted comprehensive analysis and refinement of large operational datasets from multiple unstructured sources<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Employed advanced skills in Excel, including VBA programming<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Worked closely with my team members to ensure accuracy, reliability, and improved efficiencies<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Managed multiple ongoing projects and responsibilities simultaneously<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Updated routine KPIs and dashboards<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Utilized TIBCO Spotfire to visualize insights and highlight emerging trends<br>
+
+- Conducted comprehensive analysis and refinement of large operational datasets from multiple unstructured sources<br>
+- Employed advanced skills in Excel, including VBA programming<br>
+- Worked closely with my team members to ensure accuracy, reliability, and improved efficiencies<br>
+- Managed multiple ongoing projects and responsibilities simultaneously<br>
+- Updated routine KPIs and dashboards<br>
+- Utilized TIBCO Spotfire to visualize insights and highlight emerging trends<br>
 <br>
 AIR & REGULATORY SCIENTIST | ENVIROCLEAN<br>
     &nbsp;&nbsp;&nbsp;&nbsp;Oklahoma City, OK <br>
     &nbsp;&nbsp;&nbsp;&nbsp;2012-2013<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Provided consultation services to clients to ensure accurate operational data capture <br>- Conducted engineering calculations for emissions reporting<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Filed regulatory reports on behalf of five energy companies<br>
+
+- Provided consultation services to clients to ensure accurate operational data capture
+- Conducted engineering calculations for emissions reporting<br>
+- Filed regulatory reports on behalf of five energy companies<br>
 <br>
 LAB TECHNICIAN | OK DEPT. ENVIRONMENTAL QUALITY <br>
     &nbsp;&nbsp;&nbsp;&nbsp;Oklahoma City, OK <br>
     &nbsp;&nbsp;&nbsp;&nbsp;2009-2011<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Balanced a part-time role while pursuing full-time college education<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Demonstrated attention to detail, precision, and technique in various lab analyses, including:<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ortho-Phosphate and Total Hardness using flow injection analysis<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Chlorophyll A/Pheophytin A through spectrophotometry<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Mentored a new employee in the Chlorophyll A/Pheophytin A method<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Prepared chemical reagents, maintaining high standards of safety and precision<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Utilized Excel for data processing and report generation<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;- Accurately input critical data into the database<br>
+
+- Balanced a part-time role while pursuing full-time college education<br>
+- Demonstrated attention to detail, precision, and technique in various lab analyses, including:<br>
+    - Ortho-Phosphate and Total Hardness using flow injection analysis<br>
+    - Chlorophyll A/Pheophytin A through spectrophotometry<br>
+- Mentored a new employee in the Chlorophyll A/Pheophytin A method<br>
+- Prepared chemical reagents, maintaining high standards of safety and precision<br>
+- Utilized Excel for data processing and report generation<br>
+- Accurately input critical data into the database<br>
 
 ### Skills
 Programming Languages: 

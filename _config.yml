@@ -1,2 +1,6 @@
-theme: minimal
+title: Nathan Zlomke
+#logo: /Users/nathanzlomke/Downloads/IMG_2559 (2) (1) (1).jpg
+#description: text below image
+show downloads: true
+theme: jekyll-theme-minimal
  

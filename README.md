@@ -28,9 +28,9 @@ IBM Data Science Professional Certificates - 08/2023<br>
 - Python for Data Science, AI & Development
 
 ### Projects
-- 2023 Humana-Mays Healthcare Analytics Case Competition - Top 35 Predictive Model, Second Round Contestant 
+- 2023 Humana-Mays Healthcare Analytics Case Competition - Top 35 Predictive Model, Second Round Contestant <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added after NDA expiry)
-- Estimating Soil Parameters from Hyperspectral Images
+- Estimating Soil Parameters from Hyperspectral Images<br>
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added)
 - [Web Scraping Customer Reviews Across Socioeconomic Gradients](http://Customer%20Reviews%20Across%20Socioeconomic%20Gradients)
 - [Text Analytics - Sentiment Analysis](https://youtu.be/XUOJAnWFNXE?si=W_bSSvfw-6oVeDIx)

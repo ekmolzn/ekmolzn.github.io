@@ -2,7 +2,7 @@
 
 ### Education
 M.S. Business Analytics & Data Science - Oklahoma State University  
-&nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 12/2015 (anticipated)
+&nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 12/2015 (anticipated)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0
 #### &nbsp;&nbsp;&nbsp;&nbsp;Relevant Courses
 &nbsp;&nbsp;&nbsp;&nbsp;- Advanced Business Analytics

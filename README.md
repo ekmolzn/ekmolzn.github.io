@@ -17,11 +17,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.61, magna cum laude<br>
 
 ### Certificates
-Graduate Certificate - Business Analytics & Data Science - Oklahoma State University<br>
+#### Graduate Certificate - Business Analytics & Data Science - Oklahoma State University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 05/2023<br>
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0
 
-IBM Data Science Professional Certificates - 08/2023
+#### IBM Data Science Professional Certificates - 08/2023
 - Databases & SQL for Data Science in Python 
 - Machine Learning with Python
 - Python for Data Science, AI & Development
@@ -31,14 +31,14 @@ IBM Data Science Professional Certificates - 08/2023
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added after NDA expiry)
 - Estimating Soil Parameters from Hyperspectral Images<br>
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added)
-- [Web Scraping Customer Reviews Across Socioeconomic Gradients](http://Customer%20Reviews%20Across%20Socioeconomic%20Gradients)
+- [Web Scraping Customer Reviews Across Socioeconomic Gradients](https://github.com/ekmolzn/Socioeconomic-Web-Scraping-Gradient-Project)
 - [Text Analytics - Sentiment Analysis](https://youtu.be/XUOJAnWFNXE?si=W_bSSvfw-6oVeDIx)
 - [Predicting NBA Player Outcomes with Machine Learning](https://youtu.be/J8Evj1pHUYk?si=0HYmugG7T1O2Jjo_)
 - [Money Laundering Anaylysis with Descriptive Analytics](https://youtu.be/Tj0h7V5KSWk?si=S7JdzrT7RXcYY3mI)
 
 ### Visualizations
-- [Looker Studio Ethereum Dashboard](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)
-- [Ethereum Forecast](Assets/Ethereum_forecast.png)
+- [Ethereum Dashboard (Looker Studio)](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)
+- [Ethereum Forecast (GCP BQ/Looker Studio](Assets/Ethereum_forecast.png)
 
 ### Work Experience
 #### Team Leader | Antioch Community Church 

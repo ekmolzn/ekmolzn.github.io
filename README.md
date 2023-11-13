@@ -38,7 +38,7 @@
 
 ### Visualizations
 - [Ethereum Dashboard (Looker Studio)](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)
-- [Ethereum Forecast (GCP BQ/Looker Studio](Assets/Ethereum_forecast.png)
+- [Ethereum Forecast (GCP BQ/Looker Studio)](Assets/Ethereum_forecast.png)
 
 ### Work Experience
 #### Team Leader | Antioch Community Church 

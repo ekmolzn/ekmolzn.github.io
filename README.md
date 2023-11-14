@@ -31,15 +31,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added after NDA expiry)
 - Estimating Soil Parameters from Hyperspectral Images<br>
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added)
-#### - Webscraping: Customer Reviews Across Socioeconomic Gradients
+- #### Webscraping: Customer Reviews Across Socioeconomic Gradients
 I spearheaded this project with exploration into the interplay between socioeconomic dynamics and customer reviews in the vibrant landscape of California, one of America's most diverse states. Our approach involved the strategic sampling of 500 zip codes, utilizing Selenium in Python to scrape customer review data from Yelp across strategic business categories, promising a deep dive into meaningful insights. This initiative revealed the intricate realm of consumer behavior patterns in diverse socioeconomic landscapes...[Link to Github Repo](https://github.com/ekmolzn/Socioeconomic-Web-Scraping-Gradient-Project)
 ![Median Home Value vs. Median Rent (ggplot2)](Assets/1A_Home_Rent.png)
 ![Review Score vs. Median Rent (ggplot2)](Assets/2A_Plot_Rev_Rent.png)
 ![Review Score per Business Category vs. Median Rent](Assets/3A_Plot_Rev_Rent_Cat.png)
 
 - [Text Analytics - Sentiment Analysis](https://youtu.be/XUOJAnWFNXE?si=W_bSSvfw-6oVeDIx)
-- [Predicting NBA Player Outcomes with Machine Learning](https://youtu.be/J8Evj1pHUYk?si=0HYmugG7T1O2Jjo_)
-- [Money Laundering Anaylysis with Descriptive Analytics](https://youtu.be/Tj0h7V5KSWk?si=S7JdzrT7RXcYY3mI)
+
+- #### Predicting NBA Player Outcomes with Machine Learning 
+Given datasets for each player and factoring in their age, salary, and contract agreements, which player should be chosen?  This was a fun case utilizing a model pipeline in SAS to utilize machine learning to inform decisions...[Link to Youtube](https://youtu.be/J8Evj1pHUYk?si=0HYmugG7T1O2Jjo_)
+![NBA Player Predictions](<Assets/Screen Shot 2023-11-14 at 11.38.23 PM.png>)
+
+- [Detecting Money Laundering with Descriptive Analytics](https://youtu.be/Tj0h7V5KSWk?si=S7JdzrT7RXcYY3mI)
 
 ### Visualizations
 - [Ethereum Dashboard (Looker Studio)](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)

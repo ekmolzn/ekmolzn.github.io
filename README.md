@@ -31,7 +31,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added after NDA expiry)
 - Estimating Soil Parameters from Hyperspectral Images<br>
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added)
-#### Webscraping: Customer Reviews Across Socioeconomic Gradients
+#### - Webscraping: Customer Reviews Across Socioeconomic Gradients
 I spearheaded this project with exploration into the interplay between socioeconomic dynamics and customer reviews in the vibrant landscape of California, one of America's most diverse states. Our approach involved the strategic sampling of 500 zip codes, utilizing Selenium in Python to scrape customer review data from Yelp across strategic business categories, promising a deep dive into meaningful insights. This initiative revealed the intricate realm of consumer behavior patterns in diverse socioeconomic landscapes...[Link to Github Repo](https://github.com/ekmolzn/Socioeconomic-Web-Scraping-Gradient-Project)
 ![Median Home Value vs. Median Rent (ggplot2)](Assets/1A_Home_Rent.png)
 ![Review Score vs. Median Rent (ggplot2)](Assets/2A_Plot_Rev_Rent.png)

@@ -17,6 +17,7 @@ Enthusiastic AI/ML-focused Data Analyst, highly motivated with entrepreneurial e
 - #### M.S. Business Analytics & Data Science - Oklahoma State University
     (01/2022 - 05/2015)<br>
     GPA: 3.89<br>
+    
     #### Relevant Courses:
     - Descriptive, Predictive, & Advanced Business Analytics<br>
     - Prescriptive Analytics<br>

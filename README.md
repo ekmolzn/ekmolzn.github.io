@@ -1,22 +1,36 @@
-# Data Scientist
+# AI/ML-Focused Data Analyst
+
+### Summary
+Enthusiastic AI/ML-focused Data Analyst, highly motivated with entrepreneurial experience leading overseas startup projects. Skilled in analyzing data using Python, Structured Query Language (SQL), and Tableau to transform complex datasets into actionable business insights. Expertise in machine learning, predictive modeling, unsupervised learning, data visualization, and deep learning. Proven ability to drive results in resource-limited environments and lead cross-functional teams to achieve strategic goals.
+
+### Skills & Other
+• Predictive Analytics, Machine Learning (ML), Deep Learning (DL), Model-Building, Statistical Analysis, Data Modeling<br>
+• Python, SQL (Structured Query Language), R, PySpark, Bash, PowerShell<br>
+• Google Cloud Platform (GCP), SAS, KNIME, Excel, Microsoft SQL Server, Tableau, Power BI, Spotfire<br>
+• Tableau Certified Data Analyst (July 2024)<br>
+• Graduate Certificate in Business Analytics and Data Science (Dec. 2023)<br>
+• IBM Professional Certificate – SQL, Python & Machine Learning (Aug 2023)<br>
 
 ### Education
-#### M.S. Business Analytics & Data Science - Oklahoma State University  
-&nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 12/2015 (anticipated)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0<br>
+#### M.S. Business Analytics & Data Science - Oklahoma State University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(01/2022 - 05/2015)<br>
+GPA: 3.89<br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;Relevant Courses: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Business Analytics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Prescriptive Business Analytics <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Descriptive Business Analytics <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Programming for Data Science <br>
+Relevant Courses: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Descriptive, Predictive, & Advanced Business Analytics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Prescriptive Analytics<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Programming for Data Science (Python, R) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Statistics for Data Science<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Data Warehousing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Database Management<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Scripting (Python, Bash, PowerShell)<br>
 
-#### B.S. Environmental Science - University of Oklahoma
-&nbsp;&nbsp;&nbsp;&nbsp;01/2007 - 05/2011<br>
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 3.61, magna cum laude<br>
+#### B.S. Environmental Science - University of Oklahoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01/2007 - 05/2011<br>
+GPA: 3.61, magna cum laude<br>
 
 ### Certificates
+
+#### Tableau Certified Data Analyst (07/2024)<br>
+
 #### Graduate Certificate - Business Analytics & Data Science - Oklahoma State University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 05/2023<br>
 &nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0
@@ -27,8 +41,10 @@
 - Python for Data Science, AI & Development
 
 ### Projects
+- [Predicting Car Crash Severity Using KNIME Analytics Data Pipeline](https://www.youtube.com/watch?v=J-NMmGYxSVQ)
+![Predicting Car Crash Severity Using KNIME](<Assets/Screen Shot 2025-05-04 at 11.13.23 PM.png>)
 - 2023 Humana-Mays Healthcare Analytics Case Competition - Top 35 Predictive Model, Second Round Contestant <br>
-&nbsp;&nbsp;&nbsp;&nbsp;(link to be added after NDA expiry)
+&nbsp;&nbsp;&nbsp;&nbsp;
 - Estimating Soil Parameters from Hyperspectral Images<br>
 &nbsp;&nbsp;&nbsp;&nbsp;(link to be added)
 - #### Webscraping: Customer Reviews Across Socioeconomic Gradients

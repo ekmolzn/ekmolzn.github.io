@@ -12,7 +12,7 @@ Enthusiastic AI/ML-focused Data Analyst, highly motivated with entrepreneurial e
 • IBM Professional Certificate – SQL, Python & Machine Learning (Aug 2023)<br>
 
 ### Education
-#### M.S. Business Analytics & Data Science - Oklahoma State University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(01/2022 - 05/2015)<br>
+M.S. Business Analytics & Data Science - Oklahoma State University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(01/2022 - 05/2015)<br>
 GPA: 3.89<br>
 <br>
 Relevant Courses: <br>
@@ -24,7 +24,7 @@ Relevant Courses: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Advanced Database Management<br>
 &nbsp;&nbsp;&nbsp;&nbsp;- Scripting (Python, Bash, PowerShell)<br>
 
-#### B.S. Environmental Science - University of Oklahoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01/2007 - 05/2011<br>
+B.S. Environmental Science - University of Oklahoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01/2007 - 05/2011<br>
 GPA: 3.61, magna cum laude<br>
 
 ### Certificates

@@ -2,43 +2,48 @@
 
 ### Summary
 Enthusiastic AI/ML-focused Data Analyst, highly motivated with entrepreneurial experience leading overseas startup projects. Skilled in analyzing data using Python, Structured Query Language (SQL), and Tableau to transform complex datasets into actionable business insights. Expertise in machine learning, predictive modeling, unsupervised learning, data visualization, and deep learning. Proven ability to drive results in resource-limited environments and lead cross-functional teams to achieve strategic goals.
-
+<br>
+<br>
 ### Skills & Other
 • Predictive Analytics, Machine Learning (ML), Deep Learning (DL), Model-Building, Statistical Analysis, Data Modeling<br>
 • Python, SQL (Structured Query Language), R, PySpark, Bash, PowerShell<br>
 • Google Cloud Platform (GCP), SAS, KNIME, Excel, Microsoft SQL Server, Tableau, Power BI, Spotfire<br>
 • Tableau Certified Data Analyst (July 2024)<br>
 • Graduate Certificate in Business Analytics and Data Science (Dec. 2023)<br>
-• IBM Professional Certificate – SQL, Python & Machine Learning (Aug 2023)<br>
-
-### Education
-M.S. Business Analytics & Data Science - Oklahoma State University&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(01/2022 - 05/2015)<br>
-GPA: 3.89<br>
+• IBM Professional Certificate – SQL, Python & Machine Learning (Aug 2023)
 <br>
-Relevant Courses: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Descriptive, Predictive, & Advanced Business Analytics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Prescriptive Analytics<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Programming for Data Science (Python, R) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Statistics for Data Science<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Data Warehousing<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Advanced Database Management<br>
-&nbsp;&nbsp;&nbsp;&nbsp;- Scripting (Python, Bash, PowerShell)<br>
+<br>
+### Education
+- #### M.S. Business Analytics & Data Science - Oklahoma State University
+    (01/2022 - 05/2015)<br>
+    GPA: 3.89<br>
+    #### Relevant Courses:
+    - Descriptive, Predictive, & Advanced Business Analytics<br>
+    - Prescriptive Analytics<br>
+    - Programming for Data Science (Python, R) <br>
+    - Statistics for Data Science<br>
+    - Data Warehousing<br>
+    - Advanced Database Management<br>
+    - Scripting (Python, Bash, PowerShell)<br>
 
-B.S. Environmental Science - University of Oklahoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;01/2007 - 05/2011<br>
-GPA: 3.61, magna cum laude<br>
+- #### B.S. Environmental Science - University of Oklahoma
+  01/2007 - 05/2011<br>
+      GPA: 3.61, magna cum laude<br>
+<br>
 
 ### Certificates
 
-#### Tableau Certified Data Analyst (07/2024)<br>
+- #### Tableau Certified Data Analyst (07/2024)
 
-#### Graduate Certificate - Business Analytics & Data Science - Oklahoma State University<br>
-&nbsp;&nbsp;&nbsp;&nbsp;01/2022 - 05/2023<br>
-&nbsp;&nbsp;&nbsp;&nbsp;GPA: 4.0
+- #### Graduate Certificate - Business Analytics & Data Science - Oklahoma State University
+    - 01/2022 - 05/2023
+    - GPA: 4.0
 
-#### IBM Data Science Professional Certificates - 08/2023
-- Databases & SQL for Data Science in Python 
-- Machine Learning with Python
-- Python for Data Science, AI & Development
+- #### IBM Data Science Professional Certificates - 08/2023
+     - Databases & SQL for Data Science in Python
+     - Machine Learning with Python
+     - Python for Data Science, AI & Development
+<br>
 
 ### Projects
 - [Unsupervised Machine Learning: Finding Kevin De Bruyne’s Successor (Link to Medium Article)](https://medium.com/@nzlomke/data-driven-scouting-leveraging-unsupervised-learning-models-to-find-the-next-kevin-de-bruyne-674ba3ed9ccf)
@@ -52,11 +57,14 @@ GPA: 3.61, magna cum laude<br>
 ![Review Score vs. Median Rent (ggplot2)](Assets/2A_Plot_Rev_Rent.png)
 - #### 2023 Humana-Mays Healthcare Analytics Case Competition - Top 35 Predictive Model, Second Round Contestant
 - #### Estimating Soil Parameters from Hyperspectral Images
+<br>
 
 ### Visualizations
 - [Navigating the Skies: Data-Driven Exploration of a Century of Flight Safety Trends by Manufacturer, Model, and Airline (1908-2009)(Tableau Dashboards)](https://public.tableau.com/app/profile/nathan.zlomke/viz/NavigatingtheSkiesData-DrivenExplorationofaCenturyofFlightSafetyTrendsbyManufacturerModelandAirline1908-2009/Story1)
 - [Ethereum Dashboard (Looker Studio)](/Assets/Looker_Studio_Reporting_-_9_18_23,_10_39 PM.pdf)
 - [Ethereum Forecast (GCP BQ/Looker Studio)](Assets/Ethereum_forecast.png)
+<br>
+<br>
 
 ### Work Experience
 #### Field Project Manager | Antioch Community Church 
@@ -92,6 +100,8 @@ Oklahoma City, OK<br>
 2012-2013
 - Collected and analyzed operational datasets for 13 emissions sources for 5 mid-size energy companies; ensured regulatory compliance, improved audit accuracy and improved customer experience by advising on industry trends<br>
 - Filed regulatory reports and conducted on-site environmental assessments across multiple industrial facilities<br>
+<br>
+<br>
 
 ### Skills (Expanded)
 Programming Languages: 
